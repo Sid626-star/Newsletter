@@ -79,8 +79,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to me at [your-email@example.com].
-
----
-
-**Note:** Replace `path/to/screenshot.png` and `path/to/responsive-screenshot.png` with the actual paths to your screenshots. Also, update the repository URL, email, and any other personal information accordingly.
+For any questions or feedback, feel free to reach out to me at [singhsiddhant0112@gmail.com].
